@@ -9,6 +9,8 @@ package Code;
  *
  * @author Osneider1
  */
-public class Prueba {
-    
+public class Prueb {
+ public void metodoPrueba(){
+       System.out.println("Prueba git");
+   }    
 }

@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
  */
 public class ProductosBD implements Heladeria{
     
-  
+  //Lista de productos disponibles
     @Override
     public List Listado(){
         
